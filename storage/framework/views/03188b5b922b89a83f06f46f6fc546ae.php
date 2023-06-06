@@ -1,0 +1,1 @@
+hi kübra,<?php /**PATH /Users/kubra/Desktop/KitapSepeti/resources/views/home/test.blade.php ENDPATH**/ ?>
